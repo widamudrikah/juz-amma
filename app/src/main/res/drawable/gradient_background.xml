@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- custom_gradient_background.xml -->
+<!-- custom_gradient_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="135"
+                android:startColor="#EDCB8A"
+                android:endColor="#715218" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="150"
+                android:startColor="#FFC107"
+                android:endColor="#F3D790"
+                android:type="linear"
+                android:centerColor="#FFC107"
+                android:centerY="0.40" />
+        </shape>
+    </item>
+</layer-list>
+

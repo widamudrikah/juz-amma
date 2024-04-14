@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Juz Amma</string>
+    <string name="name_app">Juz Amma App</string>
+    <string name="learn">Learn Quran and Recite once everyday</string>
+    <string name="btn_mulai">Mulai</string>
+    <string name="title">Juz Amma</string>
+    <string name="surah_name">Al-Fatiah</string>
+    <string name="surah_type">Meccan</string>
+    <string name="terjemahan">Tentang apakah mereka saling bertanya-tanya?</string>
+
+
+    <string name="surah_arabic_default">سورة الفاتحة</string>
+
+</resources>
