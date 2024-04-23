@@ -15,8 +15,7 @@ import com.fadhil.juzamma.api.AyahsItem
 
 class AyahAdapter(
     private val ayahsList: List<AyahsItem>,
-    private val translations: List<AyahsItem>,
-    private val mediaPlayer: MediaPlayer
+    private val translations: List<AyahsItem>
     ) : RecyclerView.Adapter<AyahAdapter.AyahViewHolder>() {
 
     class AyahViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
